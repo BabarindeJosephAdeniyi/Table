@@ -1,0 +1,11 @@
+nav ul {
+    float: left;
+    width: 33.33%;
+}
+
+.home ul {
+    float: left;
+}
+.user ul {
+    float: left;
+}
